@@ -1,0 +1,30 @@
+body {
+    background-color: #241b2f;
+}
+.personal-card {
+    width: 20rem;
+    height: 30rem;
+    background-color: #2C283D;
+}
+.container-profile {
+    width: 10rem;
+    height: 10rem;
+    background-color: #2C283D;
+    top: -5rem;
+}
+.profile {
+    width: 9rem;
+    height: 9rem;
+    background:  linear-gradient(45deg, slateblue, coral);
+    background-origin: border-box;
+    border: solid 0.5rem transparent;
+}
+.container-info {
+    top: 5rem;
+}
+.add-user-button {
+    background-color: #262335;
+}
+.add-user-button:hover {
+    background-color: #241b2f;
+}
